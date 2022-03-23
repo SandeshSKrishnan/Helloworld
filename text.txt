@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5A0C-75C9
+
+ Directory of C:\Users\sande\OneDrive\Desktop\Project1
+
+23-03-2022  13:20    <DIR>          .
+23-03-2022  13:20    <DIR>          ..
+23-03-2022  11:29                20 Hello.py
+23-03-2022  13:19               399 readme.txt
+23-03-2022  13:20                 0 text.txt
+               3 File(s)            419 bytes
+               2 Dir(s)   8,892,772,352 bytes free
